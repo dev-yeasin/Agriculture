@@ -41,4 +41,4 @@ extension services.
 Technical Specifications and Requirements:
 a. Utilize HTML5, CSS3, and JavaScript to develop a responsive and user-friendly interface (using
 libraries and frameworks of your choice).
-b. Ensure cross-browser compatibility and optimize performance for fast loading. 
+b. Ensure cross-browser compatibility and optimize performance for fast loading.
